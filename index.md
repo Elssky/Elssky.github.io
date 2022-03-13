@@ -1,4 +1,8 @@
 #Elssky's Station
+
+I'm a student majored in CS, My main research interests include Social Network, Graph Theory and Combination Optimization.
+
+##
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Elssky/elssky.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
