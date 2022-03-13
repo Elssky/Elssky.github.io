@@ -1,4 +1,13 @@
 
 
-![K-VCC(K-Blocks) ](D:\GitProject\Elssky.github.io\images\K-VCC(K-Blocks) .svg)
+{::nomarkdown}
+
+<img
+    src="../images/K-VCC(K-Blocks).svg"
+    alt="survry on K-vcc"
+/>
+
+{:/}
+
+
 
