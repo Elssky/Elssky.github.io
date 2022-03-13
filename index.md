@@ -2,7 +2,7 @@
 
 I'm a student majored in CS, My main research interests include Social Network, Graph Theory and Combination Optimization.
 
-## [GIt Issues](./Catogories/GitIssues.md)
+## [GIt Issues](./Catogories/index.html)
 
 
 
