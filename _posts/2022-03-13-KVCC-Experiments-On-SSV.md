@@ -104,3 +104,29 @@ K=28(40%)
 
 
 
+## 5/5毕设实验结果
+
+CA-AstroPh
+
+![image-20220505150805252](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505150805252.png)
+
+Stanford
+
+![image-20220505151132497](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505151132497.png)
+
+![image-20220505151647904](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505151647904.png)
+
+![image-20220505153558777](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505153558777.png)
+
+![image-20220505181418595](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505181418595.png)
+
+![image-20220505183722563](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505183722563.png)
+
+CA-CondMat
+
+![image-20220505160052610](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505160052610.png)
+
+![image-20220505165503162](C:\Users\Elssky\AppData\Roaming\Typora\typora-user-images\image-20220505165503162.png)
+
+Cit
+
