@@ -27,6 +27,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+kramdown:
+  math_engine: null
+   
 # Custom variables
 owner : "Elssky"
 year : "2022"
